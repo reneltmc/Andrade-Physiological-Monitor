@@ -1,0 +1,13 @@
+PyQt6
+pandas
+scipy
+matplotlib
+numpy
+statsmodels
+scikit-learn
+psychopy
+sounddevice
+soundfile
+pycaw
+psutil
+
